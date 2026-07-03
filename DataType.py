@@ -33,6 +33,8 @@ list = ["alireza","mohammad","ghasem","hossein","matin","farhad","asghar","mohse
 
 # c = list.copy() # For Copy Of List.
 
+# print(*list) # For See list without [].
+
 # Matrix = [
 #     [1,2,3],
 #     [4,5,6],
