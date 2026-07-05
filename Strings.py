@@ -6,7 +6,7 @@
 #
 # New_T = T.replace("Alireza", "Mohammad!") # For Change Forever.
 # print(New_T)
-from tabnanny import check
+
 
 #         ******************************************************************************        #
                                         #  strip  #
