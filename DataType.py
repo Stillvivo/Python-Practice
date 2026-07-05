@@ -41,7 +41,3 @@ list = ["alireza","mohammad","ghasem","hossein","matin","farhad","asghar","mohse
 #     [7,8,9]
 # ]
 # print(Matrix[0][2]) # For Create Matrix.
-
-
-
-
